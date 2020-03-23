@@ -1,0 +1,12 @@
+d:\Users\Student\Documents\Visual Studio 2017\Projects\Inheritanse\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+d:\Users\Student\Documents\Visual Studio 2017\Projects\Inheritanse\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+d:\Users\Student\Documents\Visual Studio 2017\Projects\Inheritanse\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+d:\Users\Student\Documents\Visual Studio 2017\Projects\Inheritanse\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+d:\Users\Student\Documents\Visual Studio 2017\Projects\Inheritanse\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\Users\Student\Documents\Visual Studio 2017\Projects\Inheritanse\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Corvus\source\repos\Inheritanse\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Corvus\source\repos\Inheritanse\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Corvus\source\repos\Inheritanse\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Corvus\source\repos\Inheritanse\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Corvus\source\repos\Inheritanse\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Corvus\source\repos\Inheritanse\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

@@ -1,0 +1,12 @@
+D:\Users\Student\Documents\Visual Studio 2017\Projects\Inheritanse\Inteface\bin\Debug\Inteface.exe
+D:\Users\Student\Documents\Visual Studio 2017\Projects\Inheritanse\Inteface\bin\Debug\Inteface.pdb
+D:\Users\Student\Documents\Visual Studio 2017\Projects\Inheritanse\Inteface\obj\Debug\Intefaces.csprojAssemblyReference.cache
+D:\Users\Student\Documents\Visual Studio 2017\Projects\Inheritanse\Inteface\obj\Debug\Intefaces.csproj.CoreCompileInputs.cache
+D:\Users\Student\Documents\Visual Studio 2017\Projects\Inheritanse\Inteface\obj\Debug\Inteface.exe
+D:\Users\Student\Documents\Visual Studio 2017\Projects\Inheritanse\Inteface\obj\Debug\Inteface.pdb
+C:\Users\Corvus\source\repos\Inheritanse\Inteface\bin\Debug\Inteface.exe
+C:\Users\Corvus\source\repos\Inheritanse\Inteface\bin\Debug\Inteface.pdb
+C:\Users\Corvus\source\repos\Inheritanse\Inteface\obj\Debug\Intefaces.csprojAssemblyReference.cache
+C:\Users\Corvus\source\repos\Inheritanse\Inteface\obj\Debug\Intefaces.csproj.CoreCompileInputs.cache
+C:\Users\Corvus\source\repos\Inheritanse\Inteface\obj\Debug\Inteface.exe
+C:\Users\Corvus\source\repos\Inheritanse\Inteface\obj\Debug\Inteface.pdb

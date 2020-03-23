@@ -1,0 +1,12 @@
+D:\Users\Student\Documents\Visual Studio 2017\Projects\Inheritanse\Threads\bin\Debug\Threads.exe
+D:\Users\Student\Documents\Visual Studio 2017\Projects\Inheritanse\Threads\bin\Debug\Threads.pdb
+D:\Users\Student\Documents\Visual Studio 2017\Projects\Inheritanse\Threads\obj\Debug\Threads.csprojAssemblyReference.cache
+D:\Users\Student\Documents\Visual Studio 2017\Projects\Inheritanse\Threads\obj\Debug\Threads.csproj.CoreCompileInputs.cache
+D:\Users\Student\Documents\Visual Studio 2017\Projects\Inheritanse\Threads\obj\Debug\Threads.exe
+D:\Users\Student\Documents\Visual Studio 2017\Projects\Inheritanse\Threads\obj\Debug\Threads.pdb
+C:\Users\Corvus\source\repos\Inheritanse\Threads\bin\Debug\Threads.exe
+C:\Users\Corvus\source\repos\Inheritanse\Threads\bin\Debug\Threads.pdb
+C:\Users\Corvus\source\repos\Inheritanse\Threads\obj\Debug\Threads.csprojAssemblyReference.cache
+C:\Users\Corvus\source\repos\Inheritanse\Threads\obj\Debug\Threads.csproj.CoreCompileInputs.cache
+C:\Users\Corvus\source\repos\Inheritanse\Threads\obj\Debug\Threads.exe
+C:\Users\Corvus\source\repos\Inheritanse\Threads\obj\Debug\Threads.pdb
